@@ -1,6 +1,3 @@
-# Portfolio
-Sobre mim / About me
-
 # Guilherme Corazza
 <sub>Equity Research Analyst</sub>
 
